@@ -1,0 +1,2 @@
+mrn,patient_name,date_of_birth,gender,address,phone,visit_type,ward,attending_dr,admission_date,next_of_kin,nok_relationship,pcp_clinic,pcp_doctor
+MRN123456^^^HOSPITAL^MR,DOE^JOHN^A,19800515,M,123 MAIN ST^^NEW YORK^NY^10001,555-1234,I,WARD3^301^A^^^HOSPITAL,DR456^SMITH^JAMES^DR,,DOE^JANE^,SPO,CLINIC123^PRIMARY CARE CLINIC,DR789^JONES^MARY^DR
